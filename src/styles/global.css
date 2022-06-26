@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    @apply bg-gray-900 text-gray-100;
+    -webkit-font-smoothing: antialiased;
+}
+
+/*
+CMS = Content Management System
+
+Trás tanto o painel de ADMIN tanto quanto a parte visualdo FRONT-END(Temas)
+
+Headless CMS (GraphCMS): Painel de ADMIN (dados fornecidos através de API REST ou GrapfQL)
+React que consome essa API do CMS
+
+
+Operações importantes do GraphQL {
+    1º Query => Buscar dados da API 
+    2º Mutation => Criar, alterar ou deletar dados
+}
+
+
+*/
