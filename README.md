@@ -2,7 +2,8 @@
   Teaching platform
 </h1>
 
-![header]()
+
+<img width="1382" alt="header" src="https://user-images.githubusercontent.com/83414433/179411412-ae3a1b2a-60bc-4177-9834-1ecdf081af1c.png">
 
 > Status: Functional getting new features
 
@@ -27,6 +28,7 @@
 * Login with github and google account authentication
 * Platform's own forum
 * Layout lightMode
+* Version mobile
 
 ## :rocket: Technologies Used:
 
@@ -58,6 +60,13 @@
     <td>Hosting Platform</td>
   </tr>
 </table>
+
+## :link: Layout
+
+If you want to see the layout of the project, click on the desired link:
+
+- [Layout Web]()
+- [Layout Mobile]()
 
 ## :warning: Prerequisites
 
@@ -97,25 +106,14 @@
 - Run the command`npm run dev` on the integrated terminal;
 - Press `Ctrl + click` to access project at localhost:3000;
 
-:warning: If your code editor does not have an integrated terminal:
+
+:warning: <b>If your code editor does not have an integrated terminal:</b>
 
 - Perform all pre-installation steps;
 - Run the command `npm i` 
 - Run the command`npm run dev`
 - Press `Ctrl + click` to access project at localhost:3000;
 
-## :link: Layout
-
-If you want to see the layout of the project, click on the desired link:
-
-- [Layout Web]()
-- [Layout Mobile]()
-
-
-<center>
-    <img>
-</center>
-
-
- 
- 
+<footer align="center">
+  <img width="1412" alt="footer" src="https://user-images.githubusercontent.com/83414433/179415644-def1db0f-ae98-4170-a583-2559c801dc28.png">
+</footer>
