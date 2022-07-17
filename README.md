@@ -7,12 +7,14 @@
 
 > Status: Functional getting new features
 
+
 ## :page_facing_up: About
 
 <p>
   It is a web platform for managing video lessons, where the user (student) registers and has access to the contents. The user (teacher)
   creates the content and through the API we can connect the content to the platform.
 </p>
+
 
 ## Functionalities:
 
@@ -29,6 +31,7 @@
 * Platform's own forum
 * Layout lightMode
 * Version mobile
+
 
 ## :rocket: Technologies Used:
 
@@ -61,12 +64,13 @@
   </tr>
 </table>
 
+
 ## :link: Layout
 
 If you want to see the layout of the project, click on the desired link:
 
-- [Layout Web]()
-- [Layout Mobile]()
+- [Layout Web and Mobile ](https://www.figma.com/file/dp3RU7LRNkNc6MJRtiyFt4/Plataforma-de-evento---Ignite-Lab-(Community)?node-id=24%3A2)
+
 
 ## :warning: Prerequisites
 
@@ -85,6 +89,7 @@ If you want to see the layout of the project, click on the desired link:
   </tr>
 </table>
 
+
 ## :construction_worker: How to use
 
 ### On Github:
@@ -99,13 +104,11 @@ If you want to see the layout of the project, click on the desired link:
 - Type the command `git clone` and paste the https then `git clone https://github.com/Gabriel23i/ignite-lab-rocketseat.git`
 - Run the command to clone;
 
-
 <b>Post installation:</b>
 - In the code editor open the folder that contains the project;
 - Run the command `npm i` on the integrated terminal;
 - Run the command`npm run dev` on the integrated terminal;
 - Press `Ctrl + click` to access project at localhost:3000;
-
 
 :warning: <b>If your code editor does not have an integrated terminal:</b>
 
