@@ -2,11 +2,16 @@
   Teaching platform
 </h1>
 
+<div align="center">
+  <img width="1382" alt="header" src="https://user-images.githubusercontent.com/83414433/179411412-ae3a1b2a-60bc-4177-9834-1ecdf081af1c.png">
+</div>
 
-<img width="1382" alt="header" src="https://user-images.githubusercontent.com/83414433/179411412-ae3a1b2a-60bc-4177-9834-1ecdf081af1c.png">
+</br>
+</br>
 
 > Status: Functional getting new features
 
+</br>
 
 ## :page_facing_up: About
 
@@ -15,6 +20,7 @@
   creates the content and through the API we can connect the content to the platform.
 </p>
 
+</br>
 
 ## Functionalities:
 
@@ -32,6 +38,7 @@
 * Layout lightMode
 * Version mobile
 
+</br>
 
 ## :rocket: Technologies Used:
 
@@ -64,6 +71,7 @@
   </tr>
 </table>
 
+</br>
 
 ## :link: Layout
 
@@ -71,6 +79,7 @@ If you want to see the layout of the project, click on the desired link:
 
 - [Layout Web and Mobile ](https://www.figma.com/file/dp3RU7LRNkNc6MJRtiyFt4/Plataforma-de-evento---Ignite-Lab-(Community)?node-id=24%3A2)
 
+</br>
 
 ## :warning: Prerequisites
 
@@ -89,6 +98,7 @@ If you want to see the layout of the project, click on the desired link:
   </tr>
 </table>
 
+</br>
 
 ## :construction_worker: How to use
 
@@ -117,6 +127,14 @@ If you want to see the layout of the project, click on the desired link:
 - Run the command`npm run dev`
 - Press `Ctrl + click` to access project at localhost:3000;
 
-<footer align="center">
+</br>
+
+<div align="center">
   <img width="1412" alt="footer" src="https://user-images.githubusercontent.com/83414433/179415644-def1db0f-ae98-4170-a583-2559c801dc28.png">
-</footer>
+</div>
+
+</br>
+
+## Considerations finalized
+In this project I put into practice my knowledge with React, React Router Dom. I learned TypeScript in a practical and theoretical way, now understanding the difference between it and JavaScript. GraphQL is a very useful and innovative tool, I learned a way to make the API "typed", being it a strict typing, that is, we can't search for data that doesn't exist in the database and we can't register data that is not requested . This I can say that it was the first time I worked with TailwindCss, since it is a declarative CSS interface, that is, in the class itself we make the CSS declaration (it has positive and negative points and it is up to the developer), I consider it a practical tool and depending on the way it is implemented, I can maintain the code in a simple way.</br>
+Last but not least, I want to express my sincere thanks to the CTO of Rocketseat <a href="https://github.com/diego3g" target="_blank">Diego Fernandes</a>, a very capable Dev and a great teacher, teaching in a practical and theoretical way several concepts, without him I certainly wouldn't have gotten this far with this application.
